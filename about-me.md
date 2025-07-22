@@ -1,0 +1,19 @@
+# About Me
+
+![profile](profile.jpg)
+
+- Name: **Dr. Vishesh Khemani**
+- Pronunciation: *vish-AYSH kay-MAA-nee*
+- Email: vishesh.khemani@lwtech.edu
+- LinkedIn: https://www.linkedin.com/in/vishesh-khemani/
+- [Resume](./resume.md)
+
+## My Journey
+
+|                |                                                              |                                                              |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1975 - 94      | <img src="Screenshot 2025-07-22 at 10.47.05 AM.png" alt="Screenshot 2025-07-22 at 10.47.05 AM" style="zoom:25%;" /> | I grew up in Kolkata, India, back in the pre-internet era. I got into computer programming in high school, coding in GW-Basic on my state-of-the-art Intel 8088 processor running MS-DOS. |
+| 1994 - 98      | <img src="35f09c90ebd09599f7b9a3988d8541af47027d96.png" alt="35f09c90ebd09599f7b9a3988d8541af47027d96" style="zoom:25%;" /> | I came to the US for college, where I double-majored in Computer Science (because I enjoyed coding) and Physics (inspired by the book Genius on the life of Feynman). I was totally unprepared for the New Hamphsire winter: I was fired for my own safety from a work-study job (delivering pizza on a bike at night) when I returned frozen blue from my first shift. |
+| 1998 - 2005    | <img src="fe0eff2e6e0b256fb328ff74f5d128abb2f0535b.png" alt="fe0eff2e6e0b256fb328ff74f5d128abb2f0535b" style="zoom:25%;" /><img src="Screenshot 2025-07-22 at 11.00.42 AM.png" alt="Screenshot 2025-07-22 at 11.00.42 AM" style="zoom:25%;" /><img src="Screenshot 2025-07-22 at 11.12.21 AM.png" alt="Screenshot 2025-07-22 at 11.12.21 AM" style="zoom:25%;" /> | I did research in Theoretical Physics (PhD and PostDoc) to better grasp what we understand about the universe. Turns out that we don't know a whole lot e.g. what 95% of the universe is made out of. |
+| 2005 - 24      | <img src="7a7644fb4cc6d674e91d266b8b0187d8b6405a8e.png" alt="7a7644fb4cc6d674e91d266b8b0187d8b6405a8e" style="zoom:25%;" /><img src="7636ad4c1213fc1399c4c300be944d8bf1411ad1.png" alt="7636ad4c1213fc1399c4c300be944d8bf1411ad1" style="zoom:25%;" /> | I switched to a career in software engineering, building large-scale distributed systems like Cloud Compute/Storage, Maps, and Caching. I found, to my delight, that solving deep problems, impacting millions of people, and making good money are not mutually exclusive. |
+| 2025 - present | <img src="stacked-signature-logo-icon.png" alt="stacked-signature-logo-icon" style="zoom:30%;" /><img src="Screenshot 2025-07-22 at 11.31.56 AM.png" alt="Screenshot 2025-07-22 at 11.31.56 AM" style="zoom:50%;" /> | I've recently embarked on my third career, as a professor of Computer Science. I think I've found my calling! |
