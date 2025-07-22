@@ -1,4 +1,3 @@
 # Vishesh Khemani's Teaching Profile
 
-- [About me](about-me)
-- 
+- [About me](about-me.md)
