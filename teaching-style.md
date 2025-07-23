@@ -1,7 +1,5 @@
 # Teaching Style
 
-## My Commitment To You
-
 1. I'll foster a safe, respectful, and engaged learning environment that facilitates robust discussions/questions ala the Socratic method (even for the introverts among us)
 2. I'll employ well-researched pedagogical techniques to help you develop a rich body of knowledge, with deep understanding and appreciation
 3. I'll teach at a level (and provide variations) so that each of you feels challenged just enough (without finding the class too easy or too hard)
@@ -79,7 +77,7 @@ The above scale is **subject to change** when I determine the final grades. So p
    - Worth **60%** of the grade
      - Excused assignments not included in the scoring
      - Lowest score dropped in the scoring
-   - We'll use GitHub Classroom to manage assignments. See [here](./../github-classroom/index.md) for more details on that XXX
+   - We'll use GitHub Classroom to manage assignments. See [here](./gh-classroom.md) for more details on that
    - Policies
      - You're welcome (even encouraged) to collaborate with your fellow students and ask for help from me
      - For your own good, **don't use AI to solve** the assignments
@@ -106,17 +104,17 @@ The above scale is **subject to change** when I determine the final grades. So p
 
 ## Class Breakdown
 
-Here's a tentative schedule for each class. I'll employ some of the pedagogical techniques described here. XXX
+Here's a tentative schedule for each class. I'll employ some of the pedagogical techniques described [here](./pedagogy.md).
 
-| Block | Activity           | Details                                                      |
-| ----- | ------------------ | ------------------------------------------------------------ |
-| 30m   | Quiz and recap     |                                                              |
+| Block | Activity           | Details                                                                |
+| ----- | ------------------ | ---------------------------------------------------------------------- |
+| 30m   | Quiz and recap     |                                                                        |
 | 30m   | Learning session 1 | 20m direct instruction, followed by 10m of an active learning activity |
-| 10m   | Break              |                                                              |
-| 30m   | Learning session 2 |                                                              |
-| 30m   | Learning session 3 |                                                              |
-| 10m   | Break              |                                                              |
-| 30m   | Weekly assignment  | Discuss solution to previous assignment and introduce next assignment |
+| 10m   | Break              |                                                                        |
+| 30m   | Learning session 2 |                                                                        |
+| 30m   | Learning session 3 |                                                                        |
+| 10m   | Break              |                                                                        |
+| 30m   | Weekly assignment  | Discuss solution to previous assignment and introduce next assignment  |
 
 ## Course Materials
 
