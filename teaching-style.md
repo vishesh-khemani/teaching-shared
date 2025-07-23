@@ -1,5 +1,7 @@
 # Teaching Style
 
+## My Commitment To You
+
 1. I'll foster a safe, respectful, and engaged learning environment that facilitates robust discussions/questions ala the Socratic method (even for the introverts among us)
 2. I'll employ well-researched pedagogical techniques to help you develop a rich body of knowledge, with deep understanding and appreciation
 3. I'll teach at a level (and provide variations) so that each of you feels challenged just enough (without finding the class too easy or too hard)
