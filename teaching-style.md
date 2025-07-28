@@ -54,9 +54,9 @@ But wait, won't this unfairly lead to the stronger students not getting a better
 
 The tentative scale to convert your overall course percentage (p) into a GPA is the following:
 
-- $\text{GPA}(0\% \le p \lt 60\%) = 0.0$
-- $\text{GPA}(60\% \le p \lt 93\%) = 0.7 + (p - 60)/10$
-- $\text{GPA}(93\% \le p) = 4.0$
+- $\text{GPA}(0 \le p \lt 60) = 0.0$
+- $\text{GPA}(60 \le p \lt 93) = 0.7 + (p - 60)/10$
+- $\text{GPA}(93 \le p) = 4.0$
 
 | GPA  | Percentage |
 | :--- | :--------- |
