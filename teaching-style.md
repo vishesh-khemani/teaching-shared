@@ -84,16 +84,16 @@ The above scale is **subject to change** when I determine the final grades. So p
      - You're welcome (even encouraged) to collaborate with your fellow students and ask for help from me
      - For your own good, **don't use AI to solve** the assignments
        - Why not? See the "What I Ask Of You" section above
-   
 2. **Quizzes**
    - **10m** quiz in every class, starting at 5m after the start of class
-   - **No make ups**, but you can **ask in advance to be excused** if you have a valid reason 
-    - Open notes (but no AI use)
+     - **Closed book** to exercise retrieval
+     - **On paper** to remove distractions (temptations?)
+       - You have to be physically present
+       - **Make up** quiz during office hours (in person)
     - Covers the main topics from the previous class (and interleaves older topics as well)
     - Worth **30%** of the grade
       - Excused quizzes not included in the scoring
       - Lowest score dropped in the scoring
-
 3. **Engagement**
 
    - Evaluated subjectively every week over classes/office-hours
