@@ -6,6 +6,11 @@
 
 - [My teaching style](./teaching-style.md)
 
-- [AI Tutor](./tutoring.md)
+- Resources
+
+  - [AI Tutor](./tutoring.md)
+  - [Polling](./polls.md)
 
   
+
+
