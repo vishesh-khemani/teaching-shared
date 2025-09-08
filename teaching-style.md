@@ -89,7 +89,7 @@ The above scale is **subject to change** when I determine the final grades. So p
      - **Closed book** to exercise retrieval
      - **On paper** to remove distractions (temptations?)
        - You have to be physically present
-       - **Make up** quiz during office hours (in person)
+       - If you have a good reason to not be able to make it to class, please let me know and we can schedule an in-person **make up** quiz
     - Covers the main topics from the previous class (and interleaves older topics as well)
     - Worth **30%** of the grade
       - Excused quizzes not included in the scoring
