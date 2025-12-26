@@ -5,6 +5,7 @@
   - [Resume](./resume.md)
 
 - [My teaching style](./teaching-style.md)
+- [Past Course and Instructor Evaluations](./evaluations/index.md)
 
 - Resources
 
