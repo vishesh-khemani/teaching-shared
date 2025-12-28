@@ -9,8 +9,7 @@
   - To gather real-time stats
   - To increase participation (especially for the shy among us)
 - Use one of the following to access the polls:
-  1. Go to the http://gosocrative.com and join the room "DRVISH"
-  2. Use the following direct link to the polling room: https://api.socrative.com/rc/UQTbyA
-  3. Use the following QR code to go directly to the polling room:
+  1. Go to the https://pollev.com/vkhemani100
+  2. Use the following QR code:
   
-     ![](media/drvish-qr-code.png)
+     ![](media/pollev.png)
