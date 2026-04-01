@@ -5,6 +5,7 @@ In the spirit of transparency, I'm sharing the student feedback I've received on
 - 2026
   - Winter
     - [CSD412: Web Apps](./CSD41243305CSD41243305-W26-WebApplicationDevelop-Section43305_VisheshKhemani.pdf)
+    - [CSD436: Algorithmic Problem Solving](./CSD43610754CSD43610754-W26-AlgorithmicProbSolving-Section10754_VisheshKhemani.pdf)
 - 2025
   - Fall
     - [CS301: Foundations of CS](./CS30125520CS30125520-F25-FoundationsofComputerSci-Section25520_VisheshKhemani.pdf)
