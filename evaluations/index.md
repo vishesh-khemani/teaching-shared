@@ -2,6 +2,9 @@
 
 In the spirit of transparency, I'm sharing the student feedback I've received on courses I've taught in the past. Hope this helps some students get a better idea of what to expect in my courses.
 
+- 2026
+  - Winter
+    - [CSD412: Web Apps](./CSD41243305CSD41243305-W26-WebApplicationDevelop-Section43305_VisheshKhemani.pdf)
 - 2025
   - Fall
     - [CS301: Foundations of CS](./CS30125520CS30125520-F25-FoundationsofComputerSci-Section25520_VisheshKhemani.pdf)
