@@ -9,21 +9,23 @@
 
 ### Teaching
 
-1. **Adjunct Professor** of Computer Science at [LWTech](https://www.lwtech.edu) (Winter'25 - present)
+1. **Assistant Teaching Professor** of Computer Science at [UWB](https://www.uwb.edu) (Autumn'26 - present)
+
+1. **Adjunct Professor** of Computer Science at [LWTech](https://www.lwtech.edu) (Winter'25 - Spring'26)
 
    - Courses taught or scheduled to teach (through the 25-26 academic year):
      - Level 1xx: Computer Science II in Java
-     - Level 2xx: Software Development Tools
      - Level 3xx:
         - Foundations of Computer Science (Theory of Computation)
         - Database Modeling & Design
         - Computer Architecture and Networking
      - Level 4xx:
         - Web Application Development
-        - Algorithmic Problem Solving  
+        - Algorithmic Problem Solving
+        - Programming Languages
     - Nominated for Instructional Excellence 2024-25 award
     - Selected for OER Development Funding to prepare original lecture notes in lieu of text books and to openly license them
-
+      - https://vishesh-khemani.github.io/oer-cs-foundations/
 
 1. **Lecturer** of Physics at [UW Bothell](https://www.uwb.edu) (Winter'25)
 
